@@ -53,3 +53,7 @@ O site apresenta a estrutura de um estúdio profissional, dividindo suas página
 1. Faça o clone deste repositório ou baixe o arquivo ZIP.
 2. Abra a pasta do projeto no seu computador.
 3. Dê um duplo clique no arquivo `index.html` para abri-lo diretamente no seu navegador.
+
+## Acesso no pages
+
+* [Link](https://mikael-antony.github.io/Aura-Studio/)
